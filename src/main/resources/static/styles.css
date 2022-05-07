@@ -1,0 +1,19 @@
+/*
+Theme Name: taco-cloud
+Author: KGP
+Author URI: https://ua.linkedin.com/in/gennadykolomoets
+Description: taco-cloud Theme
+Tags: ohra,articles,subscribers,disconts,sidebar-replacing
+Version: 1.0.0.1526063856
+Updated: 2022-05-05 09:37:36
+*/
+
+.grid {
+  column-count: 2;
+}
+
+.ingredient-group {
+  break-inside: avoid;
+}
+
+
